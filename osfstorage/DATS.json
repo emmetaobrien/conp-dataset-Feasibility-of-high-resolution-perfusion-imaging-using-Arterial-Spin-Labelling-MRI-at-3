@@ -1,0 +1,181 @@
+{
+  "title": "High-resolution Arterial Spin Labelling MRI",
+  "description": "Cerebral blood flow (CBF) is a critical physiological parameter of brain health and it can be non-invasively measured with arterial spin labelling (ASL) MRI. In this study, we evaluated and optimised whole-brain, high-resolution ASL as an alternative to the low-resolution ASL employed in the routine assessment of CBF in both healthy participants and patients. Two high-resolution protocols (i.e., pCASL and FAIR-Q2TIPS (PASL) with 2 mm isotropic voxels) were compared to a default clinical pCASL protocol ($\\ 3.4\\times\\ 3.4\\times\\ 4\\ mm^3$), all of whom had an acquistion time of $\\approx$ 5 min.",
+  "creators": [
+    {
+      "firstName": "Sriranga",
+      "lastName": "Kashyap",
+      "email": "sriranga.kashyap@uhn.ca",
+      "affiliations": [
+        {
+          "name": "Krembil Brain Institute, University Health Network"
+        }
+      ],
+      "fullName": "Sriranga Kashyap",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0003-0307-9773"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "MRI"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "CC BY-SA"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "NIfTI",
+        "JSON",
+        "TSV"
+      ],
+      "size": 2.5,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://osf.io/q482e",
+        "authorizations": [
+          {
+            "value": "private"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "name": {
+        "value": "Clinical Protocol"
+      },
+      "description": "pCASL 3D-GRASE ASL (data from 20ch, 32ch, 64ch coils)"
+    },
+    {
+      "name": {
+        "value": "High-resolution Protocol 1"
+      },
+      "description": "pCASL 3D-GRASE ASL (data from 20ch, 32ch, 64ch coils)"
+    },
+    {
+      "name": {
+        "value": "High-resolution Protocol 2"
+      },
+      "description": "FAIR Q2TIPS 3D-GRASE ASL (data from 20ch, 32ch, 64ch coils)"
+    }
+  ],
+  "keywords": [
+    {
+      "value": "ASL"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "CBF"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "530"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Krembil Brain Institute, University Health Network"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Sriranga Kashyap, sriranga.kashyap@uhn.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
