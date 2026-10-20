@@ -38,7 +38,7 @@
     }
   ],
   "version": "1.0",
-  "privacy": "controlled",
+  "privacy": "open",
   "licenses": [
     {
       "name": "CC BY-SA"
@@ -57,9 +57,10 @@
       },
       "access": {
         "landingPage": "https://osf.io/q482e",
+        "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=q482e",
         "authorizations": [
           {
-            "value": "private"
+            "value": "public"
           }
         ]
       }
